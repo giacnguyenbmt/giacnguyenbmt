@@ -1,5 +1,6 @@
+<!--
 ### Hi there 👋
-
+-->
 <!--
 **giacnguyenbmt/giacnguyenbmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,12 +27,10 @@ Here are some ideas to get you started:
   text-align: center;
   font-family: arial;
 }
-
 .title {
   color: grey;
   font-size: 18px;
 }
-
 button {
   border: none;
   outline: 0;
@@ -44,24 +43,20 @@ button {
   width: 100%;
   font-size: 18px;
 }
-
 a {
   text-decoration: none;
   font-size: 22px;
   color: black;
 }
-
 button:hover, a:hover {
   opacity: 0.7;
 }
 </style>
 </head>
 <body>
-
 <!-- <h2 style="text-align:center">User Profile Card</h2> -->
-
 <div class="card">
-  <img src="/assets/NP.png" alt="Nguyen Pham" style="width:100%">
+  <img src="./assets/NP.jpg" alt="Nguyen Pham" style="width:100%">
   <h1>Nguyen Pham</h1>
   <p class="title">Third-year student</p>
   <p>University of Information Technology</p>
@@ -71,6 +66,5 @@ button:hover, a:hover {
   </div>
   <p><button href="github.com/giacnguyenbmt">Contact</button></p>
 </div>
-
 </body>
 </html>
