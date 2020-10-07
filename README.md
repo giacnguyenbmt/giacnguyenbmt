@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="./assets/AI.gif" alt="header"/>
 </div>
-
-<h2 align="center"> Whoami?</h2>
+<hr>
+<h2 align="center"> 👨🏻‍🎓 Whoami 👨🏻‍🎓</h2>
 <p align="center">
   <samp>I am Nguyen Pham, people call me Nguyen, currently pursuing my bachelor's degree majoring in computer science from The University of Information Technology at HCM.
   </samp>
   <!--<br> <br>-->
 </p>
+<hr>
+<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 
